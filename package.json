@@ -29,5 +29,8 @@
   },
   "engines": {
     "node": "14.16.0"
+  },
+  "scripts": {
+    "start": "node bot.js"
   }
 }
